@@ -1,0 +1,4 @@
+# Vimernote #
+A Vim plugin for Evernote
+
+Works with text-only notes
